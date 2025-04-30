@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/proposal-manager.clar"
 depends_on = []
 
+[contracts.voting-engine]
+path = "contracts/voting-engine.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
