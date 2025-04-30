@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/membership-registry.clar"
 depends_on = []
 
+[contracts.proposal-manager]
+path = "contracts/proposal-manager.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
